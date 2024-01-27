@@ -10,6 +10,9 @@
 
 - Pull this repo
 
+- Initialize envs
+  `cp env.sample .env`
+
 - Initialize dependencies
   `go mod download`
 
